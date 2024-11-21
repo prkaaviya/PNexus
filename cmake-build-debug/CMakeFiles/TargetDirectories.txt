@@ -1,0 +1,4 @@
+/Users/prkaaviya/CLionProjects/PNexus/cmake-build-debug/CMakeFiles/nexus.dir
+/Users/prkaaviya/CLionProjects/PNexus/cmake-build-debug/CMakeFiles/registry_server.dir
+/Users/prkaaviya/CLionProjects/PNexus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/prkaaviya/CLionProjects/PNexus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
